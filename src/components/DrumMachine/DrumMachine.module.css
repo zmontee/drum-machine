@@ -1,0 +1,16 @@
+.machineBox {
+    display: flex;
+    justify-content: space-between;
+    width: 800px;
+    height: 500px;
+    background-color: darkgrey;
+    border: 5px solid black;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+.test {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+}
